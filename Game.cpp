@@ -2,7 +2,7 @@
  * Game.cpp
  *
  *  Created on: Dec 4, 2017
- *      Author: joe
+ *      Author: Stephen
  */
 
 #include "Game.h"
